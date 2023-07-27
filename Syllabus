@@ -300,7 +300,6 @@ a)	Query Param b) Path Param
 
 •	Usage of RestTemplate and RestClient Usage of RequestParam and PathVariable
 
-
 References:-
 
 1.	Java fundamentals:-
@@ -310,6 +309,20 @@ References:-
 2.	OOPs:-
 •	https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk
 
+3.	Java-8 stream API Features Lambda Expression :-
+•	https://courses.telusko.com/learn/Java-8-stream-API-Features-Lambda-Expression
+
+4.	Hibernate :-
+•	https://courses.telusko.com/learn/Hibernate-Tutorial-for-Beginners
+
+5.	Servlet-and-JSP-Tutorial :-
+•	https://courses.telusko.com/learn/Servlet-and-JSP-Tutorial-for-Beginners-2018
+
+6.	REST-API - Restful-Web-Service :-
+•	https://courses.telusko.com/learn/REST-API---Restful-Web-Service
+
+
 Exercise:-
 
 •	https://exercism.org/tracks/java/concepts
+
