@@ -1,0 +1,315 @@
+Java Fundamentals:
+
+1.	Introduction to Java (Telusko channel)
+
+  •	How Java Made Portable(WORA)
+  
+  •	Main method
+  
+  •	Statically vs Dynamically typed
+  
+  •	Variables and Datatypes
+  
+  •	Type Casting and Truncation
+  
+  •	Identifiers and Naming Convention Operators
+  
+  •	Increment and Decrement Conditional statement
+
+  •	Loops
+
+  •	Scanner class (console user input)
+
+2.	Object-oriented programming (OOP)
+
+•	Classes and Object
+
+•	JVM data areas Instance variable vs local variables
+
+•	Method overloading
+
+•	Wrapper classes
+
+•	Encapsulation
+
+•	This keyword
+
+•	Constructor Static keyword Introduction
+
+•	Class loading
+
+•	Inheritance
+
+•	Package and Access modifiers
+
+•	Polymorphism
+
+•	Abstraction and abstract keyword
+
+•	Final keyword
+
+3.	Array
+
+•	Why an array? Creating An Array
+
+•	Different ways to create an array
+
+•	20 Regular Array 20 Jagged Array
+
+•	Enhanced For Loop
+
+•	Anonymous Array
+
+•	ArayindexOutOfBoundsException Disadvantages of Array
+
+4.	Strings:
+
+•	String Introduction Types of String
+
+•	Immutable String and Memory Map
+
+•	Ways to compare
+
+•	String Concatenation Inbuilt methods in String class
+
+•	Introduction to Mutable String
+
+•	Final vs Immutability
+
+•	More on Mutable String
+
+•	StringBuffer vs StringBuilder
+
+5.	Interface and Lambda Expression:-
+
+•	What is interface?
+
+•	Interface Implementation
+
+•	Need Of Interface With Example
+
+•	Important key points of Interface Abstract Vs Interface
+
+•	Java 8 Features
+
+•	Functional Interface
+
+•	Inner class
+
+•	Anonymous inner class Lambda Expression
+
+6.	Exception Handling-
+
+•	Different types of Errors What is an Exception?
+
+•	try catch
+
+•	Multiple catch block
+
+•	Handling vs Ducking an Exception throw, throws, finally
+
+•	Custom Exception
+
+•	Hierarchy of an Exception class try with Resources
+
+7.	Multithreading:-
+
+•	Thread
+
+•	Need of Multiple Threads
+
+•	Main Thread in Java
+
+•	How to create Threads
+
+•	More on creating Multiple Threads
+
+•	Thread vs Runnable
+
+•	States of Thread
+
+•	join and is Alive methods Interrupto method
+
+•	Synchronisation in Java
+
+•	Dead lock Producer - Consumer problem
+
+
+
+8.	Collection:-
+
+•	Why Collection?
+
+•	Collection Hierarchy ArrayList
+
+•	LinkedList ArrayDeque
+
+•	PriorityQueue
+
+•	TreeSet
+
+•	HashSet
+
+•	LinkedHashSet
+
+•	Iterator, List Iterator
+
+•	Legacy classes and Enumeration
+
+•	Introduction to Map in Java
+
+•	Map Hierarchy HashMap
+
+9.	File Handling
+
+•	Input Stream Output Stream
+
+•	File Operation Serialisation
+
+•	Deserialisation
+
+10.	Database-
+
+•	Basic Concepts of DBMS
+
+•	Exploring Relational DBMS
+
+•	Introduction to SQL DOL and DML Statements
+
+•	CRUD operations
+
+•	Working with Constraints Joins and Set Operations
+
+
+
+11.	Java Database Connectivity (JDBC)-
+
+•	Introduction to JDBC
+
+•	Steps followed to write JDBC Code
+
+•	 Basics of JDBC
+
+•	Deep dive into JDBC
+
+12.	Servlet
+
+•	Client Server Architecture
+
+•	Different types of Server a. web server b. application server
+
+•	Need of Servlet and Different ways of Creating a Serviet
+
+•	First Serviet
+
+•	Servlet life cycle Annotation support
+
+•	Difference b/w ServletConfig vs ServletContext object
+
+•	HttpServletRequest, HttpServletResponse
+
+•	RequestDispatching Filters, Listeners
+
+•	MVC (Model-View-Controller)
+
+•	Servlet Application with MVC Design Pattern
+
+13.	Hibernate:-
+
+•	Limitation of JDBC
+
+•	Need of ORM
+
+•	Hibernate Features
+
+•	Hibernate Architecture
+
+•	Steps to prepare First Hibernate Application
+
+•	Hibernate Persistence Object Lifecycle Connection Pooling in Hibernate
+
+•	Working with Date and Time Operation
+
+•	Working with HQL.NativeSQL in hibernate
+
+•	Caching in hibernate
+
+14.	Spring Core and Spring Boot-
+
+•	What is Spring Framework
+
+•	What is Spring Boot Differences between Spring & Spring Boot
+
+•	IOC container
+
+•	Dependency Injection a) Setter Injection b) Constructor Injection c)
+
+•	Injection
+
+•	Stereotype Annotations a) @Component b) @Service c) @Repository
+
+•	Field
+
+•	@Controller
+
+•	Spring Boot Overview
+
+•	Pros & Cons of Spring Boot Approaches to create Spring Boot Application
+
+•	Application with Spring Boot
+
+15.	Spring DataJPA:-
+
+•	Spring Data JPA Introduction
+
+•	Differences between Spring ORM and Spring Data JPA Working with CurdRepository
+
+•	Working with PagingAndRepository Working with
+
+16.	Spring Web MVC:-
+
+•	Spring Web MVC Introduction
+
+•	Spring MVC Architecture Introduction to Front Controller(DispatcherServlet)
+
+•	Handler Mappers
+
+•	Controllers
+
+•	View Resolvers
+
+•	Web Application development using Spring Boot Sending Data From UI to Controller
+
+a)	Query Param b) Path Param
+
+•	Sending Data From Controller to Ul a) Model b) ModelAndView
+
+•	Spring MVC Form Tag library Form Based application development using Spring Boot
+
+17.	Spring REST:-
+
+•	Spring Rest
+
+•	Usage of xml and Json in Rest
+
+•	Need of JAX-RS API
+
+•	Introduction to SpringRest and its annotations
+
+•	Usage of Postman tool to test the API Usage of Swagger api
+
+•	Usage of RestTemplate and RestClient Usage of RequestParam and PathVariable
+
+
+References:-
+
+1.	Java fundamentals:-
+•	https://www.youtube.com/playlist?list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5
+•	https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+
+2.	OOPs:-
+•	https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk
+
+Exercise:-
+
+•	https://exercism.org/tracks/java/concepts
